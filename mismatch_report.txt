@@ -1,0 +1,345 @@
+Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
+---------------------------------------------------------------------------
+Genesis              | 31    | 55    | MISSING    | PRESENT    | PRESENT   
+Genesis              | 32    | 33    | PRESENT    | MISSING    | MISSING   
+Exodus               | 7     | 26    | PRESENT    | MISSING    | MISSING   
+Exodus               | 7     | 27    | PRESENT    | MISSING    | MISSING   
+Exodus               | 7     | 28    | PRESENT    | MISSING    | MISSING   
+Exodus               | 7     | 29    | PRESENT    | MISSING    | MISSING   
+Exodus               | 8     | 29    | MISSING    | PRESENT    | PRESENT   
+Exodus               | 8     | 30    | MISSING    | PRESENT    | PRESENT   
+Exodus               | 8     | 31    | MISSING    | PRESENT    | PRESENT   
+Exodus               | 8     | 32    | MISSING    | PRESENT    | PRESENT   
+Exodus               | 21    | 37    | PRESENT    | MISSING    | MISSING   
+Exodus               | 22    | 31    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 5     | 20    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 21    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 22    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 23    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 24    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 25    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 5     | 26    | PRESENT    | MISSING    | MISSING   
+Leviticus            | 6     | 24    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 25    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 26    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 27    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 28    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 29    | MISSING    | PRESENT    | PRESENT   
+Leviticus            | 6     | 30    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 36    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 37    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 38    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 39    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 40    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 41    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 42    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 43    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 44    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 45    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 46    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 47    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 48    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 49    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 16    | 50    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 17    | 14    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 15    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 16    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 17    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 18    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 19    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 20    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 21    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 22    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 23    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 24    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 25    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 26    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 27    | PRESENT    | MISSING    | MISSING   
+Numbers              | 17    | 28    | PRESENT    | MISSING    | MISSING   
+Numbers              | 29    | 40    | MISSING    | PRESENT    | PRESENT   
+Numbers              | 30    | 17    | PRESENT    | MISSING    | MISSING   
+Deuteronomy          | 12    | 32    | MISSING    | PRESENT    | PRESENT   
+Deuteronomy          | 13    | 19    | PRESENT    | MISSING    | MISSING   
+Deuteronomy          | 22    | 30    | MISSING    | PRESENT    | PRESENT   
+Deuteronomy          | 23    | 26    | PRESENT    | MISSING    | MISSING   
+Deuteronomy          | 28    | 69    | PRESENT    | MISSING    | MISSING   
+Deuteronomy          | 29    | 29    | MISSING    | PRESENT    | PRESENT   
+1 Samuel             | 21    | 16    | PRESENT    | MISSING    | MISSING   
+1 Samuel             | 23    | 29    | MISSING    | PRESENT    | PRESENT   
+1 Samuel             | 24    | 23    | PRESENT    | MISSING    | MISSING   
+2 Samuel             | 18    | 33    | MISSING    | PRESENT    | PRESENT   
+2 Samuel             | 19    | 44    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 4     | 21    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 22    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 23    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 24    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 25    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 26    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 27    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 28    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 29    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 30    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 31    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 32    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 33    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 4     | 34    | MISSING    | PRESENT    | PRESENT   
+1 Kings              | 5     | 19    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 20    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 21    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 22    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 23    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 24    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 25    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 26    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 27    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 28    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 29    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 30    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 31    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 5     | 32    | PRESENT    | MISSING    | MISSING   
+1 Kings              | 22    | 54    | PRESENT    | MISSING    | MISSING   
+2 Kings              | 11    | 21    | MISSING    | PRESENT    | PRESENT   
+2 Kings              | 12    | 22    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 27    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 28    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 29    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 30    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 31    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 32    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 33    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 34    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 35    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 36    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 37    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 38    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 39    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 40    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 5     | 41    | PRESENT    | MISSING    | MISSING   
+1 Chronicles         | 6     | 67    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 68    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 69    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 70    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 71    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 72    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 73    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 74    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 75    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 76    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 77    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 78    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 79    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 80    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 6     | 81    | MISSING    | PRESENT    | PRESENT   
+1 Chronicles         | 12    | 41    | PRESENT    | MISSING    | MISSING   
+2 Chronicles         | 1     | 18    | PRESENT    | MISSING    | MISSING   
+2 Chronicles         | 2     | 18    | MISSING    | PRESENT    | PRESENT   
+2 Chronicles         | 13    | 23    | PRESENT    | MISSING    | MISSING   
+2 Chronicles         | 14    | 15    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 3     | 33    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 3     | 34    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 3     | 35    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 3     | 36    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 3     | 37    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 3     | 38    | PRESENT    | MISSING    | MISSING   
+Nehemiah             | 4     | 18    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 4     | 19    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 4     | 20    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 4     | 21    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 4     | 22    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 4     | 23    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 9     | 38    | MISSING    | PRESENT    | PRESENT   
+Nehemiah             | 10    | 40    | PRESENT    | MISSING    | MISSING   
+Job                  | 21    | 8     | MISSING    | PRESENT    | PRESENT   
+Job                  | 40    | 25    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 26    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 27    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 28    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 29    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 30    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 31    | PRESENT    | MISSING    | MISSING   
+Job                  | 40    | 32    | PRESENT    | MISSING    | MISSING   
+Job                  | 41    | 27    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 28    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 29    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 30    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 31    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 32    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 33    | MISSING    | PRESENT    | PRESENT   
+Job                  | 41    | 34    | MISSING    | PRESENT    | PRESENT   
+Psalms               | 3     | 9     | PRESENT    | MISSING    | MISSING   
+Psalms               | 4     | 9     | PRESENT    | MISSING    | MISSING   
+Psalms               | 5     | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 6     | 11    | PRESENT    | MISSING    | MISSING   
+Psalms               | 7     | 18    | PRESENT    | MISSING    | MISSING   
+Psalms               | 8     | 10    | PRESENT    | MISSING    | MISSING   
+Psalms               | 9     | 21    | PRESENT    | MISSING    | MISSING   
+Psalms               | 12    | 9     | PRESENT    | MISSING    | MISSING   
+Psalms               | 18    | 51    | PRESENT    | MISSING    | MISSING   
+Psalms               | 19    | 15    | PRESENT    | MISSING    | MISSING   
+Psalms               | 20    | 10    | PRESENT    | MISSING    | MISSING   
+Psalms               | 21    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 22    | 32    | PRESENT    | MISSING    | MISSING   
+Psalms               | 30    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 31    | 25    | PRESENT    | MISSING    | MISSING   
+Psalms               | 34    | 23    | PRESENT    | MISSING    | MISSING   
+Psalms               | 36    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 38    | 23    | PRESENT    | MISSING    | MISSING   
+Psalms               | 39    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 40    | 18    | PRESENT    | MISSING    | MISSING   
+Psalms               | 41    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 42    | 12    | PRESENT    | MISSING    | MISSING   
+Psalms               | 44    | 27    | PRESENT    | MISSING    | MISSING   
+Psalms               | 45    | 18    | PRESENT    | MISSING    | MISSING   
+Psalms               | 46    | 12    | PRESENT    | MISSING    | MISSING   
+Psalms               | 47    | 10    | PRESENT    | MISSING    | MISSING   
+Psalms               | 48    | 15    | PRESENT    | MISSING    | MISSING   
+Psalms               | 49    | 10    | MISSING    | PRESENT    | PRESENT   
+Psalms               | 49    | 21    | PRESENT    | MISSING    | MISSING   
+Psalms               | 51    | 20    | PRESENT    | MISSING    | MISSING   
+Psalms               | 51    | 21    | PRESENT    | MISSING    | MISSING   
+Psalms               | 52    | 10    | PRESENT    | MISSING    | MISSING   
+Psalms               | 52    | 11    | PRESENT    | MISSING    | MISSING   
+Psalms               | 53    | 7     | PRESENT    | MISSING    | MISSING   
+Psalms               | 54    | 8     | PRESENT    | MISSING    | MISSING   
+Psalms               | 54    | 9     | PRESENT    | MISSING    | MISSING   
+Psalms               | 55    | 24    | PRESENT    | MISSING    | MISSING   
+Psalms               | 56    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 57    | 12    | PRESENT    | MISSING    | MISSING   
+Psalms               | 58    | 12    | PRESENT    | MISSING    | MISSING   
+Psalms               | 59    | 18    | PRESENT    | MISSING    | MISSING   
+Psalms               | 60    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 60    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 61    | 9     | PRESENT    | MISSING    | MISSING   
+Psalms               | 62    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 63    | 12    | PRESENT    | MISSING    | MISSING   
+Psalms               | 64    | 11    | PRESENT    | MISSING    | MISSING   
+Psalms               | 65    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 67    | 8     | PRESENT    | MISSING    | MISSING   
+Psalms               | 68    | 36    | PRESENT    | MISSING    | MISSING   
+Psalms               | 69    | 37    | PRESENT    | MISSING    | MISSING   
+Psalms               | 70    | 6     | PRESENT    | MISSING    | MISSING   
+Psalms               | 75    | 11    | PRESENT    | MISSING    | MISSING   
+Psalms               | 76    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 77    | 21    | PRESENT    | MISSING    | MISSING   
+Psalms               | 80    | 20    | PRESENT    | MISSING    | MISSING   
+Psalms               | 81    | 17    | PRESENT    | MISSING    | MISSING   
+Psalms               | 83    | 19    | PRESENT    | MISSING    | MISSING   
+Psalms               | 84    | 13    | PRESENT    | MISSING    | MISSING   
+Psalms               | 85    | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 88    | 19    | PRESENT    | MISSING    | MISSING   
+Psalms               | 89    | 53    | PRESENT    | MISSING    | MISSING   
+Psalms               | 92    | 16    | PRESENT    | MISSING    | MISSING   
+Psalms               | 102   | 29    | PRESENT    | MISSING    | MISSING   
+Psalms               | 108   | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 140   | 14    | PRESENT    | MISSING    | MISSING   
+Psalms               | 142   | 8     | PRESENT    | MISSING    | MISSING   
+Ecclesiastes         | 4     | 17    | PRESENT    | MISSING    | MISSING   
+Ecclesiastes         | 5     | 20    | MISSING    | PRESENT    | PRESENT   
+Song of Solomon      | 6     | 13    | MISSING    | PRESENT    | PRESENT   
+Song of Solomon      | 7     | 14    | PRESENT    | MISSING    | MISSING   
+Isaiah               | 8     | 23    | PRESENT    | MISSING    | MISSING   
+Isaiah               | 9     | 21    | MISSING    | PRESENT    | PRESENT   
+Isaiah               | 64    | 12    | MISSING    | PRESENT    | PRESENT   
+Jeremiah             | 8     | 23    | PRESENT    | MISSING    | MISSING   
+Jeremiah             | 9     | 26    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 20    | 45    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 20    | 46    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 20    | 47    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 20    | 48    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 20    | 49    | MISSING    | PRESENT    | PRESENT   
+Ezekiel              | 21    | 33    | PRESENT    | MISSING    | MISSING   
+Ezekiel              | 21    | 34    | PRESENT    | MISSING    | MISSING   
+Ezekiel              | 21    | 35    | PRESENT    | MISSING    | MISSING   
+Ezekiel              | 21    | 36    | PRESENT    | MISSING    | MISSING   
+Ezekiel              | 21    | 37    | PRESENT    | MISSING    | MISSING   
+Daniel               | 3     | 31    | PRESENT    | MISSING    | MISSING   
+Daniel               | 3     | 32    | PRESENT    | MISSING    | MISSING   
+Daniel               | 3     | 33    | PRESENT    | MISSING    | MISSING   
+Daniel               | 4     | 35    | MISSING    | PRESENT    | PRESENT   
+Daniel               | 4     | 36    | MISSING    | PRESENT    | PRESENT   
+Daniel               | 4     | 37    | MISSING    | PRESENT    | PRESENT   
+Daniel               | 5     | 31    | MISSING    | PRESENT    | PRESENT   
+Daniel               | 6     | 29    | PRESENT    | MISSING    | MISSING   
+Hosea                | 1     | 10    | MISSING    | PRESENT    | PRESENT   
+Hosea                | 1     | 11    | MISSING    | PRESENT    | PRESENT   
+Hosea                | 2     | 24    | PRESENT    | MISSING    | MISSING   
+Hosea                | 2     | 25    | PRESENT    | MISSING    | MISSING   
+Hosea                | 11    | 12    | MISSING    | PRESENT    | PRESENT   
+Hosea                | 12    | 15    | PRESENT    | MISSING    | MISSING   
+Hosea                | 13    | 16    | MISSING    | PRESENT    | PRESENT   
+Hosea                | 14    | 10    | PRESENT    | MISSING    | MISSING   
+Joel                 | 2     | 28    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 2     | 29    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 2     | 30    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 2     | 31    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 2     | 32    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 6     | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 7     | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 8     | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 9     | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 10    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 11    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 12    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 13    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 14    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 15    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 16    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 17    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 18    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 19    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 20    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 3     | 21    | MISSING    | PRESENT    | PRESENT   
+Joel                 | 4     | 1     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 2     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 3     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 4     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 5     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 6     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 7     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 8     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 9     | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 10    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 11    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 12    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 13    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 14    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 15    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 16    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 17    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 18    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 19    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 20    | PRESENT    | MISSING    | MISSING   
+Joel                 | 4     | 21    | PRESENT    | MISSING    | MISSING   
+Jonah                | 1     | 17    | MISSING    | PRESENT    | PRESENT   
+Jonah                | 2     | 11    | PRESENT    | MISSING    | MISSING   
+Micah                | 4     | 14    | PRESENT    | MISSING    | MISSING   
+Micah                | 5     | 15    | MISSING    | PRESENT    | PRESENT   
+Nahum                | 1     | 15    | MISSING    | PRESENT    | PRESENT   
+Nahum                | 2     | 14    | PRESENT    | MISSING    | MISSING   
+Habakkuk             | 3     | 1     | PRESENT    | MISSING    | PRESENT   
+Zechariah            | 1     | 18    | MISSING    | PRESENT    | PRESENT   
+Zechariah            | 1     | 19    | MISSING    | PRESENT    | PRESENT   
+Zechariah            | 1     | 20    | MISSING    | PRESENT    | PRESENT   
+Zechariah            | 1     | 21    | MISSING    | PRESENT    | PRESENT   
+Zechariah            | 2     | 14    | PRESENT    | MISSING    | MISSING   
+Zechariah            | 2     | 15    | PRESENT    | MISSING    | MISSING   
+Zechariah            | 2     | 16    | PRESENT    | MISSING    | MISSING   
+Zechariah            | 2     | 17    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 19    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 20    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 21    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 22    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 23    | PRESENT    | MISSING    | MISSING   
+Malachi              | 3     | 24    | PRESENT    | MISSING    | MISSING   
+Malachi              | 4     | 1     | MISSING    | PRESENT    | PRESENT   
+Malachi              | 4     | 2     | MISSING    | PRESENT    | PRESENT   
+Malachi              | 4     | 3     | MISSING    | PRESENT    | PRESENT   
+Malachi              | 4     | 4     | MISSING    | PRESENT    | PRESENT   
+Malachi              | 4     | 5     | MISSING    | PRESENT    | PRESENT   
+Malachi              | 4     | 6     | MISSING    | PRESENT    | PRESENT   
+Romans               | 9     | 12    | MISSING    | PRESENT    | PRESENT   
+Romans               | 9     | 13    | MISSING    | PRESENT    | PRESENT   
+2 Corinthians        | 13    | 14    | PRESENT    | MISSING    | PRESENT   
+Revelation           | 12    | 18    | MISSING    | PRESENT    | MISSING   
+---------------------------------------------------------------------------
+Total Mismatched Verses: 341
