@@ -1,7 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------
-Genesis              | 31    | 55    | MISSING    | PRESENT    | PRESENT   
-Genesis              | 32    | 33    | PRESENT    | MISSING    | MISSING   
+ 
+
 Exodus               | 7     | 26    | PRESENT    | MISSING    | MISSING   
 Exodus               | 7     | 27    | PRESENT    | MISSING    | MISSING   
 Exodus               | 7     | 28    | PRESENT    | MISSING    | MISSING   
