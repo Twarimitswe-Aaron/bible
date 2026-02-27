@@ -2,16 +2,9 @@ Book                 | Chap  | Verse | BY         | EN_UST     | KJV
 ---------------------------------------------------------------------------
  
 
-Exodus               | 7     | 26    | PRESENT    | MISSING    | MISSING   
-Exodus               | 7     | 27    | PRESENT    | MISSING    | MISSING   
-Exodus               | 7     | 28    | PRESENT    | MISSING    | MISSING   
-Exodus               | 7     | 29    | PRESENT    | MISSING    | MISSING   
-Exodus               | 8     | 29    | MISSING    | PRESENT    | PRESENT   
-Exodus               | 8     | 30    | MISSING    | PRESENT    | PRESENT   
-Exodus               | 8     | 31    | MISSING    | PRESENT    | PRESENT   
-Exodus               | 8     | 32    | MISSING    | PRESENT    | PRESENT   
-Exodus               | 21    | 37    | PRESENT    | MISSING    | MISSING   
-Exodus               | 22    | 31    | MISSING    | PRESENT    | PRESENT   
+
+ 
+ 
 Leviticus            | 5     | 20    | PRESENT    | MISSING    | MISSING   
 Leviticus            | 5     | 21    | PRESENT    | MISSING    | MISSING   
 Leviticus            | 5     | 22    | PRESENT    | MISSING    | MISSING   
