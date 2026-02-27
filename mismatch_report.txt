@@ -1,24 +1,5 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
----------------------------------------------------------------------------
- 
-
-
- 
- 
-Leviticus            | 5     | 20    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 21    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 22    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 23    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 24    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 25    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 5     | 26    | PRESENT    | MISSING    | MISSING   
-Leviticus            | 6     | 24    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 25    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 26    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 27    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 28    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 29    | MISSING    | PRESENT    | PRESENT   
-Leviticus            | 6     | 30    | MISSING    | PRESENT    | PRESENT   
+---------------------------------------------------------------------------  
 Numbers              | 16    | 36    | MISSING    | PRESENT    | PRESENT   
 Numbers              | 16    | 37    | MISSING    | PRESENT    | PRESENT   
 Numbers              | 16    | 38    | MISSING    | PRESENT    | PRESENT   
