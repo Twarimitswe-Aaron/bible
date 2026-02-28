@@ -1,11 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
-   
-1 Samuel             | 21    | 16    | PRESENT    | MISSING    | MISSING   
-1 Samuel             | 23    | 29    | MISSING    | PRESENT    | PRESENT   
-1 Samuel             | 24    | 23    | PRESENT    | MISSING    | MISSING   
-2 Samuel             | 18    | 33    | MISSING    | PRESENT    | PRESENT   
-2 Samuel             | 19    | 44    | PRESENT    | MISSING    | MISSING   
+     
 1 Kings              | 4     | 21    | MISSING    | PRESENT    | PRESENT   
 1 Kings              | 4     | 22    | MISSING    | PRESENT    | PRESENT   
 1 Kings              | 4     | 23    | MISSING    | PRESENT    | PRESENT   
