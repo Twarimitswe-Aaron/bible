@@ -1,37 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
-     
-1 Kings              | 4     | 21    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 22    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 23    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 24    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 25    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 26    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 27    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 28    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 29    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 30    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 31    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 32    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 33    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 4     | 34    | MISSING    | PRESENT    | PRESENT   
-1 Kings              | 5     | 19    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 20    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 21    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 22    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 23    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 24    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 25    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 26    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 27    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 28    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 29    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 30    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 31    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 5     | 32    | PRESENT    | MISSING    | MISSING   
-1 Kings              | 22    | 54    | PRESENT    | MISSING    | MISSING   
-2 Kings              | 11    | 21    | MISSING    | PRESENT    | PRESENT   
-2 Kings              | 12    | 22    | PRESENT    | MISSING    | MISSING   
+
+ 
 1 Chronicles         | 5     | 27    | PRESENT    | MISSING    | MISSING   
 1 Chronicles         | 5     | 28    | PRESENT    | MISSING    | MISSING   
 1 Chronicles         | 5     | 29    | PRESENT    | MISSING    | MISSING   
