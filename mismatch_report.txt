@@ -1,38 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
 
- 
-1 Chronicles         | 5     | 27    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 28    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 29    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 30    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 31    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 32    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 33    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 34    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 35    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 36    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 37    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 38    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 39    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 40    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 5     | 41    | PRESENT    | MISSING    | MISSING   
-1 Chronicles         | 6     | 67    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 68    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 69    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 70    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 71    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 72    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 73    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 74    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 75    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 76    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 77    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 78    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 79    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 80    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 6     | 81    | MISSING    | PRESENT    | PRESENT   
-1 Chronicles         | 12    | 41    | PRESENT    | MISSING    | MISSING   
+
 2 Chronicles         | 1     | 18    | PRESENT    | MISSING    | MISSING   
 2 Chronicles         | 2     | 18    | MISSING    | PRESENT    | PRESENT   
 2 Chronicles         | 13    | 23    | PRESENT    | MISSING    | MISSING   
