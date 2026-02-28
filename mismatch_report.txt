@@ -1,11 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
 
-
-2 Chronicles         | 1     | 18    | PRESENT    | MISSING    | MISSING   
-2 Chronicles         | 2     | 18    | MISSING    | PRESENT    | PRESENT   
-2 Chronicles         | 13    | 23    | PRESENT    | MISSING    | MISSING   
-2 Chronicles         | 14    | 15    | MISSING    | PRESENT    | PRESENT   
+ 
 Nehemiah             | 3     | 33    | PRESENT    | MISSING    | MISSING   
 Nehemiah             | 3     | 34    | PRESENT    | MISSING    | MISSING   
 Nehemiah             | 3     | 35    | PRESENT    | MISSING    | MISSING   
