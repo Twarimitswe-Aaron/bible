@@ -1,9 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
- 
-   
- 
-Isaiah               | 64    | 12    | MISSING    | PRESENT    | PRESENT   
+  
 Jeremiah             | 8     | 23    | PRESENT    | MISSING    | MISSING   
 Jeremiah             | 9     | 26    | MISSING    | PRESENT    | PRESENT   
 Ezekiel              | 20    | 45    | MISSING    | PRESENT    | PRESENT   
