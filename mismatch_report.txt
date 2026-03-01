@@ -85,19 +85,7 @@ Zechariah            | 1     | 21    | MISSING    | PRESENT    | PRESENT
 Zechariah            | 2     | 14    | PRESENT    | MISSING    | MISSING   
 Zechariah            | 2     | 15    | PRESENT    | MISSING    | MISSING   
 Zechariah            | 2     | 16    | PRESENT    | MISSING    | MISSING   
-Zechariah            | 2     | 17    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 19    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 20    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 21    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 22    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 23    | PRESENT    | MISSING    | MISSING   
-Malachi              | 3     | 24    | PRESENT    | MISSING    | MISSING   
-Malachi              | 4     | 1     | MISSING    | PRESENT    | PRESENT   
-Malachi              | 4     | 2     | MISSING    | PRESENT    | PRESENT   
-Malachi              | 4     | 3     | MISSING    | PRESENT    | PRESENT   
-Malachi              | 4     | 4     | MISSING    | PRESENT    | PRESENT   
-Malachi              | 4     | 5     | MISSING    | PRESENT    | PRESENT   
-Malachi              | 4     | 6     | MISSING    | PRESENT    | PRESENT   
+Zechariah            | 2     | 17    | PRESENT    | MISSING    | MISSING    
 Romans               | 9     | 12    | MISSING    | PRESENT    | PRESENT   
 Romans               | 9     | 13    | MISSING    | PRESENT    | PRESENT   
 2 Corinthians        | 13    | 14    | PRESENT    | MISSING    | PRESENT   
