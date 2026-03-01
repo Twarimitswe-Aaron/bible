@@ -1,8 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
  
-Ecclesiastes         | 4     | 17    | PRESENT    | MISSING    | MISSING   
-Ecclesiastes         | 5     | 20    | MISSING    | PRESENT    | PRESENT   
+ 
 Song of Solomon      | 6     | 13    | MISSING    | PRESENT    | PRESENT   
 Song of Solomon      | 7     | 14    | PRESENT    | MISSING    | MISSING   
 Isaiah               | 8     | 23    | PRESENT    | MISSING    | MISSING   
