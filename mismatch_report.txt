@@ -1,21 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
-  
-Psalms               | 75    | 11    | PRESENT    | MISSING    | MISSING   
-Psalms               | 76    | 13    | PRESENT    | MISSING    | MISSING   
-Psalms               | 77    | 21    | PRESENT    | MISSING    | MISSING   
-Psalms               | 80    | 20    | PRESENT    | MISSING    | MISSING   
-Psalms               | 81    | 17    | PRESENT    | MISSING    | MISSING   
-Psalms               | 83    | 19    | PRESENT    | MISSING    | MISSING   
-Psalms               | 84    | 13    | PRESENT    | MISSING    | MISSING   
-Psalms               | 85    | 14    | PRESENT    | MISSING    | MISSING   
-Psalms               | 88    | 19    | PRESENT    | MISSING    | MISSING   
-Psalms               | 89    | 53    | PRESENT    | MISSING    | MISSING   
-Psalms               | 92    | 16    | PRESENT    | MISSING    | MISSING   
-Psalms               | 102   | 29    | PRESENT    | MISSING    | MISSING   
-Psalms               | 108   | 14    | PRESENT    | MISSING    | MISSING   
-Psalms               | 140   | 14    | PRESENT    | MISSING    | MISSING   
-Psalms               | 142   | 8     | PRESENT    | MISSING    | MISSING   
+ 
 Ecclesiastes         | 4     | 17    | PRESENT    | MISSING    | MISSING   
 Ecclesiastes         | 5     | 20    | MISSING    | PRESENT    | PRESENT   
 Song of Solomon      | 6     | 13    | MISSING    | PRESENT    | PRESENT   
