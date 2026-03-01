@@ -1,11 +1,8 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
  
+   
  
-Song of Solomon      | 6     | 13    | MISSING    | PRESENT    | PRESENT   
-Song of Solomon      | 7     | 14    | PRESENT    | MISSING    | MISSING   
-Isaiah               | 8     | 23    | PRESENT    | MISSING    | MISSING   
-Isaiah               | 9     | 21    | MISSING    | PRESENT    | PRESENT   
 Isaiah               | 64    | 12    | MISSING    | PRESENT    | PRESENT   
 Jeremiah             | 8     | 23    | PRESENT    | MISSING    | MISSING   
 Jeremiah             | 9     | 26    | MISSING    | PRESENT    | PRESENT   
