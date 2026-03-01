@@ -1,21 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
-
- 
-Nehemiah             | 3     | 33    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 3     | 34    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 3     | 35    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 3     | 36    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 3     | 37    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 3     | 38    | PRESENT    | MISSING    | MISSING   
-Nehemiah             | 4     | 18    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 4     | 19    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 4     | 20    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 4     | 21    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 4     | 22    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 4     | 23    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 9     | 38    | MISSING    | PRESENT    | PRESENT   
-Nehemiah             | 10    | 40    | PRESENT    | MISSING    | MISSING   
+  
 Job                  | 21    | 8     | MISSING    | PRESENT    | PRESENT   
 Job                  | 40    | 25    | PRESENT    | MISSING    | MISSING   
 Job                  | 40    | 26    | PRESENT    | MISSING    | MISSING   
