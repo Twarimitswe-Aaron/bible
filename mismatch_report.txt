@@ -1,15 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
   
-  
-Daniel               | 3     | 31    | PRESENT    | MISSING    | MISSING   
-Daniel               | 3     | 32    | PRESENT    | MISSING    | MISSING   
-Daniel               | 3     | 33    | PRESENT    | MISSING    | MISSING   
-Daniel               | 4     | 35    | MISSING    | PRESENT    | PRESENT   
-Daniel               | 4     | 36    | MISSING    | PRESENT    | PRESENT   
-Daniel               | 4     | 37    | MISSING    | PRESENT    | PRESENT   
-Daniel               | 5     | 31    | MISSING    | PRESENT    | PRESENT   
-Daniel               | 6     | 29    | PRESENT    | MISSING    | MISSING   
 Hosea                | 1     | 10    | MISSING    | PRESENT    | PRESENT   
 Hosea                | 1     | 11    | MISSING    | PRESENT    | PRESENT   
 Hosea                | 2     | 24    | PRESENT    | MISSING    | MISSING   
