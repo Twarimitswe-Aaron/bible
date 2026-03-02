@@ -1,16 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
   
-Ezekiel              | 20    | 45    | MISSING    | PRESENT    | PRESENT   
-Ezekiel              | 20    | 46    | MISSING    | PRESENT    | PRESENT   
-Ezekiel              | 20    | 47    | MISSING    | PRESENT    | PRESENT   
-Ezekiel              | 20    | 48    | MISSING    | PRESENT    | PRESENT   
-Ezekiel              | 20    | 49    | MISSING    | PRESENT    | PRESENT   
-Ezekiel              | 21    | 33    | PRESENT    | MISSING    | MISSING   
-Ezekiel              | 21    | 34    | PRESENT    | MISSING    | MISSING   
-Ezekiel              | 21    | 35    | PRESENT    | MISSING    | MISSING   
-Ezekiel              | 21    | 36    | PRESENT    | MISSING    | MISSING   
-Ezekiel              | 21    | 37    | PRESENT    | MISSING    | MISSING   
+  
 Daniel               | 3     | 31    | PRESENT    | MISSING    | MISSING   
 Daniel               | 3     | 32    | PRESENT    | MISSING    | MISSING   
 Daniel               | 3     | 33    | PRESENT    | MISSING    | MISSING   
