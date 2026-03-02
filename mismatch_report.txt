@@ -1,7 +1,7 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
-  | MISSING    | PRESENT    | PRESENT   
-2 Corinthians        | 13    | 14    | PRESENT    | MISSING    | PRESENT   
+ 
+ 
 Revelation           | 12    | 18    | MISSING    | PRESENT    | MISSING   
 ---------------------------------------------------------------------------
 Total Mismatched Verses: 341
