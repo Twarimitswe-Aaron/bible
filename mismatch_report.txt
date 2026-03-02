@@ -1,8 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
   
-Jeremiah             | 8     | 23    | PRESENT    | MISSING    | MISSING   
-Jeremiah             | 9     | 26    | MISSING    | PRESENT    | PRESENT   
 Ezekiel              | 20    | 45    | MISSING    | PRESENT    | PRESENT   
 Ezekiel              | 20    | 46    | MISSING    | PRESENT    | PRESENT   
 Ezekiel              | 20    | 47    | MISSING    | PRESENT    | PRESENT   
@@ -77,15 +75,7 @@ Micah                | 4     | 14    | PRESENT    | MISSING    | MISSING
 Micah                | 5     | 15    | MISSING    | PRESENT    | PRESENT   
 Nahum                | 1     | 15    | MISSING    | PRESENT    | PRESENT   
 Nahum                | 2     | 14    | PRESENT    | MISSING    | MISSING   
-Habakkuk             | 3     | 1     | PRESENT    | MISSING    | PRESENT   
-Zechariah            | 1     | 18    | MISSING    | PRESENT    | PRESENT   
-Zechariah            | 1     | 19    | MISSING    | PRESENT    | PRESENT   
-Zechariah            | 1     | 20    | MISSING    | PRESENT    | PRESENT   
-Zechariah            | 1     | 21    | MISSING    | PRESENT    | PRESENT   
-Zechariah            | 2     | 14    | PRESENT    | MISSING    | MISSING   
-Zechariah            | 2     | 15    | PRESENT    | MISSING    | MISSING   
-Zechariah            | 2     | 16    | PRESENT    | MISSING    | MISSING   
-Zechariah            | 2     | 17    | PRESENT    | MISSING    | MISSING    
+Habakkuk             | 3     | 1     | PRESENT    | MISSING    | PRESENT    
 Romans               | 9     | 12    | MISSING    | PRESENT    | PRESENT   
 Romans               | 9     | 13    | MISSING    | PRESENT    | PRESENT   
 2 Corinthians        | 13    | 14    | PRESENT    | MISSING    | PRESENT   
