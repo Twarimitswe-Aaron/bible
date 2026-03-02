@@ -1,7 +1,6 @@
 Book                 | Chap  | Verse | BY         | EN_UST     | KJV       
 ---------------------------------------------------------------------------    
 
-Habakkuk             | 3     | 1     | PRESENT    | MISSING    | PRESENT    
 Romans               | 9     | 12    | MISSING    | PRESENT    | PRESENT   
 Romans               | 9     | 13    | MISSING    | PRESENT    | PRESENT   
 2 Corinthians        | 13    | 14    | PRESENT    | MISSING    | PRESENT   
